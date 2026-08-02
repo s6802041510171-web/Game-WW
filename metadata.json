@@ -1,0 +1,6 @@
+{
+  "name": "Cyber Nightmare: Protocol Survival",
+  "description": "เกมสยองขวัญเอาชีวิตรอดสอนความปลอดภัยไซเบอร์ (Cybersecurity Educational Escape Room) 3 Zones พร้อมระบบคะแนน, เวลา, HP, Badges, Leaderboard และ Google Sheets API",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
